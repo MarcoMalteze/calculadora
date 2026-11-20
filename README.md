@@ -29,7 +29,7 @@ O programa permite converter números entre as bases:
 ## Participantes
 
 - Marco Antonio Maestri Malteze
-- João Pedro Barbosa
+- João Pedro Barboza
 
 ## Como executar
 
